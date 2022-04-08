@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaWhile", "PracticaWhile\PracticaWhile.csproj", "{883E474C-A109-4476-9F75-EFF54B452F82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDoWhile", "EjemploDoWhile\EjemploDoWhile.csproj", "{7611697B-1909-4B2E-BBBE-27351854FE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDoWhile", "PracticaDoWhile\PracticaDoWhile.csproj", "{DC9318E3-82D8-4A70-9B99-805D91F8095F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{883E474C-A109-4476-9F75-EFF54B452F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{883E474C-A109-4476-9F75-EFF54B452F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{883E474C-A109-4476-9F75-EFF54B452F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7611697B-1909-4B2E-BBBE-27351854FE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7611697B-1909-4B2E-BBBE-27351854FE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7611697B-1909-4B2E-BBBE-27351854FE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7611697B-1909-4B2E-BBBE-27351854FE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9318E3-82D8-4A70-9B99-805D91F8095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9318E3-82D8-4A70-9B99-805D91F8095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9318E3-82D8-4A70-9B99-805D91F8095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9318E3-82D8-4A70-9B99-805D91F8095F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
